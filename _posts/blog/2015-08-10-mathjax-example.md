@@ -4,6 +4,7 @@ title: "MathJax Example"
 modified:
 categories: blog
 excerpt:
+published: false
 tags: []
 image:
   feature:
